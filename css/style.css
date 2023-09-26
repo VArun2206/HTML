@@ -1,0 +1,22 @@
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    
+}
+
+h1{
+    text-align: center ;
+}
+.img{
+    display: flex;
+    justify-content: center;
+}
+
+th{
+    font-weight: bold;
+}
+
+table{
+    border-style: groove;
+}
